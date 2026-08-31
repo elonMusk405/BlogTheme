@@ -34,8 +34,24 @@
     <loc>https://your-domain.example/openai-persistent-ai-agent-always-on-ai</loc>
     <lastmod>2026-08-30</lastmod>
   </url>
-  <url>
+<url>
     <loc>https://your-domain.example/ai-browsers-changing-search-future-of-web</loc>
     <lastmod>2026-08-30</lastmod>
+  </url>
+<url>
+    <loc>https://your-domain.example/ai-browsers-changing-web-search</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+<url>
+    <loc>https://your-domain.example/ai-news-anthropic-nvidia-next-ai-race-2026</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+<url>
+    <loc>https://your-domain.example/anthopic-nvidia-ai-chip-race-infrastructure</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://your-domain.example/google-gemini-new-ai-race-speed-scale</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
 </urlset>
