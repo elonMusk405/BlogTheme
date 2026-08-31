@@ -1,12 +1,12 @@
 {
-  "top": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:90px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666;margin:20px 0\">\n    TEST AD — TOP\n  </div>\n`);\n</script>",
-  "in_1": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:90px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666;margin:20px 0\">\n    TEST AD — TOP\n  </div>\n`);\n</script>",
-  "in_2": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:90px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666;margin:20px 0\">\n    TEST AD — TOP\n  </div>\n`);\n</script>",
-  "sidebar": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:250px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666\">\n    TEST AD — SIDEBAR\n  </div>\n`);\n</script>",
-  "sticky": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:90px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666;margin:20px 0\">\n    TEST AD — TOP\n  </div>\n`);\n</script>",
-  "bottom_1": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:90px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666;margin:20px 0\">\n    TEST AD — ARTICLE BOTTOM 1\n  </div>\n`);\n</script>",
-  "bottom_2": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:64px;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666\">\n    TEST AD — ARTICLE BOTTOM 2 (fixed)\n  </div>\n`);\n</script>",
-  "top_right": "<script>\ndocument.currentScript.insertAdjacentHTML(\"afterend\", `\n  <div style=\"height:250px;width:100%;display:flex;align-items:center;justify-content:center;background:#f3f4f6;border:1px dashed #999;border-radius:8px;font:14px Arial;color:#666\">\n    TEST AD — TOP RIGHT\n  </div>\n`);\n</script>",
+  "top": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>\n",
+  "in_1": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>\n",
+  "in_2": "<script async=\"async\" data-cfasync=\"false\" src=\"https://gravelsemesterflourish.com/9d39ec88b7ce605e0fc4e866f8c7daa4/invoke.js\"></script>\n<div id=\"container-9d39ec88b7ce605e0fc4e866f8c7daa4\"></div>\n",
+  "sidebar": "<script async=\"async\" data-cfasync=\"false\" src=\"https://gravelsemesterflourish.com/9d39ec88b7ce605e0fc4e866f8c7daa4/invoke.js\"></script>\n<div id=\"container-9d39ec88b7ce605e0fc4e866f8c7daa4\"></div>\n",
+  "sticky": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>\n",
+  "bottom_1": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>\n",
+  "bottom_2": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>\n",
+  "top_right": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>\n",
   "timer_url": "https://nexttalks.netlify.app/pages/state-of-open-source-2026.html",
   "timer_seconds": 30
 }
