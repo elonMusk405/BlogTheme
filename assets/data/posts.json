@@ -1,5 +1,97 @@
 [
   {
+    "slug": "google-gemini-new-ai-race-speed-scale",
+    "title": "Google Gemini and the New AI Race for Speed and Scale",
+    "category": "Technology",
+    "excerpt": "Google is accelerating Gemini development as AI companies compete on speed, efficiency, agents, chips and massive computing infrastructure.",
+    "author": "Staff Writer",
+    "date": "2026-08-31",
+    "updated": "2026-08-31",
+    "readTime": "7 min read",
+    "tags": [
+      "Google Gemini",
+      "AI news",
+      "artificial intelligence",
+      "AI agents",
+      "NVIDIA",
+      "AI chips",
+      "technology",
+      "AI industry"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfgzIzgV2S7WmLv5oyeXbqbNsY4MUEXtnAYRB7Impqg&s=10",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "anthopic-nvidia-ai-chip-race-infrastructure",
+    "title": "Anthropic and NVIDIA: The New AI Chip Race Explained",
+    "category": "Technology",
+    "excerpt": "Anthropic is exploring custom AI hardware as NVIDIA leads a massive infrastructure boom. Here is why AI chips could shape the next AI race.",
+    "author": "Staff Writer",
+    "date": "2026-08-31",
+    "updated": "2026-08-31",
+    "readTime": "6 min read",
+    "tags": [
+      "Anthropic",
+      "NVIDIA",
+      "AI chips",
+      "AI news",
+      "artificial intelligence",
+      "AI infrastructure",
+      "data centers",
+      "technology"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPdTcxIlfT4ZKELAEoF0M93aKhJ-z7j-koCyB0skOnQ&s=10",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "ai-news-anthropic-nvidia-next-ai-race-2026",
+    "title": "AI News: Anthropic, NVIDIA and the Next AI Race in 2026",
+    "category": "Technology",
+    "excerpt": "Anthropic, NVIDIA and other technology companies are reshaping AI with smarter agents, advanced chips, efficient models and new AI infrastructure.",
+    "author": "Staff Writer",
+    "date": "2026-08-31",
+    "updated": "2026-08-31",
+    "readTime": "6 min read",
+    "tags": [
+      "AI news",
+      "Anthropic",
+      "NVIDIA",
+      "artificial intelligence",
+      "AI agents",
+      "AI chips",
+      "technology",
+      "AI industry"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyurAldGzLv9jiV7tIxGL_dB-8v-OJZT7ODT2hegcO1g&s=10",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "ai-browsers-changing-web-search",
+    "title": "AI Browsers: How They Are Changing Web Search in 2026",
+    "category": "Technology",
+    "excerpt": "AI browsers are changing web search by combining browsing, AI assistance, research, and productivity tools in one intelligent experience.",
+    "author": "Staff Writer",
+    "date": "2026-08-31",
+    "updated": "2026-08-31",
+    "readTime": "7 min read",
+    "tags": [
+      "AI browsers",
+      "artificial intelligence",
+      "web search",
+      "SEO",
+      "technology",
+      "AI tools",
+      "blogging",
+      "web development"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9zkzuMJc4HDziHXK24Q92BFq9cknvM7bDD7HmxrznA&s",
+    "featured": false,
+    "popular": false
+  },
+  {
     "slug": "ai-browsers-changing-search-future-of-web",
     "title": "AI Browsers Are Changing Search and the Future of the Web Excerpt: AI browsers are transforming search, research, SEO, and web traffic. Here is what their rise means for users, publishers, and developers.",
     "category": "AI",
