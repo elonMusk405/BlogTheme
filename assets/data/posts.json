@@ -1,5 +1,115 @@
 [
   {
+    "slug": "microsoft-ai-strategy-future-of-work",
+    "title": "Microsoft’s AI Strategy Is Changing the Future of Work",
+    "category": "Technology",
+    "excerpt": "Microsoft is embedding AI across Windows, Microsoft 365 and Azure, creating a future where intelligent assistants become part of everyday work.",
+    "author": "Staff Writer",
+    "date": "2026-09-01",
+    "updated": "2026-09-01",
+    "readTime": "7 min read",
+    "tags": [
+      "Microsoft AI",
+      "Copilot",
+      "artificial intelligence",
+      "AI agents",
+      "Microsoft 365",
+      "Azure AI",
+      "AI news"
+    ],
+    "image": "https://media.istockphoto.com/id/1311598658/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept.jpg?s=1024x1024&w=is&k=20&c=JZprgGDQ8xqa6iu0fyKJfKOlAvae0w9U-AdHeCT2kg4=",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "openai-ai-era-chatbots-powerful-agents",
+    "title": "OpenAI’s Next AI Era: From Chatbots to Powerful Agents",
+    "category": "Technology",
+    "excerpt": "OpenAI is pushing AI beyond chatbots toward reasoning, coding, research and agents capable of completing complex real-world tasks.",
+    "author": "Staff Writer",
+    "date": "2026-09-01",
+    "updated": "2026-09-01",
+    "readTime": "7 min read",
+    "tags": [
+      "OpenAI",
+      "AI agents",
+      "artificial intelligence",
+      "AI coding",
+      "reasoning models",
+      "AI news",
+      "generative AI"
+    ],
+    "image": "https://media.istockphoto.com/id/2196870531/photo/making-decision-on-the-move.jpg?s=1024x1024&w=is&k=20&c=_pQaGMvlsKvzt7g86THep4_K4VRUVyC1xFFqXcpbhRQ=",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "google-gemini-ai-strategy-changing-search-work",
+    "title": "Google’s Gemini AI Strategy Is Changing Search and Work",
+    "category": "Technology",
+    "excerpt": "Google is expanding Gemini across search, Android and productivity tools, pushing AI toward a more connected and practical digital assistant.",
+    "author": "Staff Writer",
+    "date": "2026-09-01",
+    "updated": "2026-09-01",
+    "readTime": "7 min read",
+    "tags": [
+      "Google Gemini",
+      "AI news",
+      "artificial intelligence",
+      "Google AI",
+      "AI search",
+      "AI agents",
+      "Android AI"
+    ],
+    "image": "https://cdn.pixabay.com/photo/2022/04/04/16/41/technology-7111795_960_720.jpg",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "anthropic-nvidia-reshaping-ai-industry-2026",
+    "title": "Anthropic and NVIDIA Are Reshaping the AI Industry in 2026",
+    "category": "Technology",
+    "excerpt": "Anthropic and NVIDIA are helping push AI toward powerful agents, coding tools and infrastructure built for the next generation of intelligent systems.",
+    "author": "Staff Writer",
+    "date": "2026-09-01",
+    "updated": "2026-09-01",
+    "readTime": "7 min read",
+    "tags": [
+      "Anthropic",
+      "NVIDIA",
+      "AI news",
+      "artificial intelligence",
+      "Claude AI",
+      "AI agents",
+      "AI chips"
+    ],
+    "image": "https://media.istockphoto.com/id/1979289147/photo/data-analysis-science-and-big-data-with-ai-technology-analyst-or-scientist-uses-a-computer.jpg?s=1024x1024&w=is&k=20&c=WqGfiIeod3kNA5XFFRRa0w5uhoL3c2PfxoWYNXfvl68=",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "slug": "nvidia-ai-strategy-beyond-gpus",
+    "title": "NVIDIA’s New AI Strategy Goes Beyond GPUs and Data Centers",
+    "category": "AI",
+    "excerpt": "NVIDIA’s $3.5 billion MediaTek investment reveals a broader AI strategy built around custom chips, connectivity, partnerships and global infrastructure.",
+    "author": "Staff Writer",
+    "date": "2026-09-01",
+    "updated": "2026-09-01",
+    "readTime": "7 min read",
+    "tags": [
+      "Tags: NVIDIA",
+      "AI chips",
+      "artificial intelligence",
+      "MediaTek",
+      "AI infrastructure",
+      "GPUs",
+      "technology news"
+    ],
+    "image": "https://media.istockphoto.com/id/2207141986/photo/ai-governance-and-responsive-generative-artificial-intelligence-use-compliance-strategy-and.jpg?s=1024x1024&w=is&k=20&c=UISb5BbdEBxkIM--eF56scOkkctrFr0alBIs6MKMXug=",
+    "featured": false,
+    "popular": false
+  },
+  {
     "slug": "google-gemini-new-ai-race-speed-scale",
     "title": "Google Gemini and the New AI Race for Speed and Scale",
     "category": "Technology",
