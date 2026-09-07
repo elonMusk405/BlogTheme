@@ -1,12 +1,12 @@
 {
-  "top": "<script>\n  atOptions = {\n    'key' : '83f1988825ccf59fdc301762be573493',\n    'format' : 'iframe',\n    'height' : 50,\n    'width' : 320,\n    'params' : {}\n  };\n</script>\n<script src=\"https://gravelsemesterflourish.com/83f1988825ccf59fdc301762be573493/invoke.js\"></script>\n",
-  "in_1": "<script async=\"async\" data-cfasync=\"false\" src=\"https://gravelsemesterflourish.com/9d39ec88b7ce605e0fc4e866f8c7daa4/invoke.js\"></script>\n<div id=\"container-9d39ec88b7ce605e0fc4e866f8c7daa4\"></div>",
-  "in_2": "",
+  "top": "",
+  "in_1": "",
+  "in_2": "<div style=\"width:100%;text-align:center;margin:10px 0;\">\n<iframe scrolling=\"no\" style=\"width:300px;max-width:100%;height:250px;border:0;overflow:hidden;margin:0 auto;display:block\" srcdoc='\n  <script>\n    atOptions = {\n      \"key\" : \"9603dba3abe79fdbc1c16ac6ae572e6a\",\n      \"format\" : \"iframe\",\n      \"height\" : 250,\n      \"width\" : 300,\n      \"params\" : {}\n    };\n  </script>\n  <script src=\"https://gravelsemesterflourish.com/9603dba3abe79fdbc1c16ac6ae572e6a/invoke.js\"></script>\n'></iframe>\n</div>",
   "sidebar": "",
-  "sticky": "<script src=\"https://gravelsemesterflourish.com/00/69/76/006976f99ee2a0724394991f413f7958.js\"></script>",
-  "bottom_1": "",
-  "bottom_2": "",
-  "top_right": "",
+  "sticky": "",
+  "bottom_1": "<div style=\"width:100%;text-align:center;margin:10px 0;\">\n<iframe scrolling=\"no\" style=\"width:320px;max-width:100%;height:50px;border:0;overflow:hidden;margin:0 auto;display:block\" srcdoc='\n  <script>\n    atOptions = {\n      \"key\" : \"83f1988825ccf59fdc301762be573493\",\n      \"format\" : \"iframe\",\n      \"height\" : 50,\n      \"width\" : 320,\n      \"params\" : {}\n    };\n  </script>\n  <script src=\"https://gravelsemesterflourish.com/83f1988825ccf59fdc301762be573493/invoke.js\"></script>\n'></iframe>\n</div>",
+  "bottom_2": "<div style=\"width:100%;text-align:center;margin:10px 0;\">\n<iframe scrolling=\"no\" style=\"width:468px;max-width:100%;height:60px;border:0;overflow:hidden;margin:0 auto;display:block\" srcdoc='\n  <script>\n    atOptions = {\n      \"key\" : \"7b4da361d6a592d711a7b91412779e16\",\n      \"format\" : \"iframe\",\n      \"height\" : 60,\n      \"width\" : 468,\n      \"params\" : {}\n    };\n  </script>\n  <script src=\"https://gravelsemesterflourish.com/7b4da361d6a592d711a7b91412779e16/invoke.js\"></script>\n'></iframe>\n</div>",
+  "top_right": "<div style=\"width:100%;text-align:center;margin:10px 0;\">\n<iframe scrolling=\"no\" style=\"width:160px;max-width:100%;height:600px;border:0;overflow:hidden;margin:0 auto;display:block\" srcdoc='\n  <script>\n    atOptions = {\n      \"key\" : \"2c46b937692eadc54a1699bbb769bb6e\",\n      \"format\" : \"iframe\",\n      \"height\" : 600,\n      \"width\" : 160,\n      \"params\" : {}\n    };\n  </script>\n  <script src=\"https://gravelsemesterflourish.com/2c46b937692eadc54a1699bbb769bb6e/invoke.js\"></script>\n'></iframe>\n</div>",
   "timer_url": "https://aitalkdaily.netlify.app/pages/ai-news-anthropic-nvidia-next-ai-race-2026.html",
   "timer_seconds": 30
 }
